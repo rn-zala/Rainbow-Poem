@@ -1,9 +1,15 @@
 The Rainbow
 The Unicorn - unicorn rn-zala
+- ponies
+The Ponies - Ponies rn-zala
+Pony 1 - Ponies rn-zala
+Pony 2 - Ponies rn-zala
+Pony 3 - Ponies rn-zala
 The Master Ponies
 Master Pony 1 - master rn-zala
 Master Pony 2 - master rn-zala
 Master Pony 3 - master rn-zala
+- master
 Violet - master rn-zala
 Indigo - master rn-zala
 Blue - master rn-zala
