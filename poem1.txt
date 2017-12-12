@@ -3,7 +3,7 @@ The Rainbow
 Red - master rn-zala
 Orange - master rn-zala
 Yellow - master rn-zala
-GREEN - master rn-zala
+Green - master rn-zala
 Blue - master rn-zala
 Indigo - master rn-zala
 Violet - master rn-zala
